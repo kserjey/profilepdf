@@ -13,8 +13,7 @@ want to say what you think, we'd love to hear from you. Every message is read by
 
 ## 💡 Ideas & feature requests
 
-Missing a section in your PDF? Want another template, Letter paper size, or a way to hide the
-photo? Tell us. Requests from users decide what gets built next.
+Missing a section in your PDF? Want another template or another language for the headings? Tell us. Requests from users decide what gets built next.
 
 [Suggest a feature](mailto:kserjey2store@gmail.com?subject=ProfilePDF%20idea)
 
