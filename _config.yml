@@ -1,5 +1,5 @@
-title: ProfilePDF
-description: Turn a LinkedIn profile into a clean PDF résumé, generated in your browser.
+title: ProfilePDF: LinkedIn PDF Converter
+description: Convert any LinkedIn profile to a clean, ATS-friendly PDF resume in one click. Free Chrome extension, generated entirely in your browser.
 theme: jekyll-theme-primer
 exclude:
   - README.md

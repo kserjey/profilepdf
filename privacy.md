@@ -76,7 +76,8 @@ In Chrome's extension storage, on your computer only:
 
 - your diagnostics setting (on or off),
 - the random install ID,
-- a short queue of diagnostic events not yet sent (at most 100). Each is removed once sent.
+- a short queue of diagnostic events not yet sent (at most 100). Each is removed once sent,
+- the result of your last run on each open tab (the saved file name, which includes the profile name, or an error message). It is kept in the browser's memory only, never written to disk, and is cleared when you close the tab or the browser.
 
 Turning diagnostics off deletes the install ID and the queue. Uninstalling the extension deletes
 everything.
@@ -109,7 +110,7 @@ including the Limited Use requirements.
 | `scripting` | Run the code that reads the profile, on that page, when you click.   |
 | `downloads` | Save the generated PDF to your Downloads folder.                     |
 | `offscreen` | Generate the PDF in a hidden extension page, so no server is needed. |
-| `storage`   | Remember your diagnostics setting, the install ID and unsent events. |
+| `storage`   | Remember your diagnostics setting, the install ID and unsent events, and show your last result if you reopen the popup. |
 
 ## 7. Children
 
