@@ -7,6 +7,8 @@ title: ProfilePDF
 Turn a LinkedIn profile into a clean, multi-page PDF résumé, generated entirely in your browser.
 
 <!-- TODO: replace with the Chrome Web Store link once the listing is live. -->
+<!-- https://chromewebstore.google.com/detail/<item-id> -->
+
 **[Add to Chrome](#)**
 
 ## How it works

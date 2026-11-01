@@ -58,9 +58,11 @@ signed in to LinkedIn.
 **"The page did not respond."**: reload the profile page and click the icon again. This often
 happens right after ProfilePDF was installed or updated.
 
-**Some names or text are blank in the PDF**: ProfilePDF currently supports Latin and Cyrillic
-scripts. Greek, Chinese, Japanese, Arabic, Hebrew and others aren't supported yet. If you need
-one, tell us and it'll move up the list!
+**Some names or text are blank in the PDF**: ProfilePDF supports Latin (including Vietnamese),
+Greek and Cyrillic scripts. Chinese, Japanese, Korean, Arabic, Hebrew, Devanagari, Thai and others
+aren't supported yet, so that text is left out of the PDF. When this happens, the popup says
+which scripts were skipped, so check the PDF before sending it. If you need one, tell us and
+it'll move up the list!
 
 ---
 

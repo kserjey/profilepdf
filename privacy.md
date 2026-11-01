@@ -47,6 +47,9 @@ use its EU-hosted service.
 
 - **Run outcome:** whether creating a PDF succeeded, the step where it stopped (for example
   "extract" or "render"), a fixed error code (for example `render-failed`) and how long it took.
+  If some text could not be drawn in the PDF, it also includes how many characters were left out
+  and which broad script groups they belong to (for example "Chinese, Japanese or Korean" or
+  "Arabic"). The characters themselves are never sent.
 - **Extraction quality:** which profile sections were found on the page (yes/no per section),
   how many entries were found (for example "4 experience entries"), and for each "Show all"
   page, whether loading it worked, its HTTP status code and how long it took.
