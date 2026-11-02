@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # ProfilePDF privacy policy
 
-_Last updated: 2026-11-01_
+_Last updated: 2026-11-02_
 
 ProfilePDF is a Chrome extension that turns the LinkedIn profile page you have open into a PDF
 résumé. This policy explains what it handles, what (little) leaves your device, and the choices
@@ -51,7 +51,8 @@ use its EU-hosted service.
   and which broad script groups they belong to (for example "Chinese, Japanese or Korean" or
   "Arabic"). The characters themselves are never sent.
 - **Extraction quality:** which profile sections were found on the page (yes/no per section),
-  how many entries were found (for example "4 experience entries"), and for each "Show all"
+  how many entries were found (for example "4 experience entries"), whether the page looked like
+  LinkedIn's signed-out view (yes/no), and for each "Show all"
   page, whether loading it worked, its HTTP status code and how long it took.
 - **Technical context:** the extension version and the Chrome version.
 - **A random install ID:** a random number created by the extension, so we can tell one

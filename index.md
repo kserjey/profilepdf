@@ -16,7 +16,7 @@ Save any LinkedIn profile as a clean, multi-page PDF resume in one click. Profil
 1. Open a LinkedIn profile (`linkedin.com/in/…`) while signed in.
 2. Click the ProfilePDF icon in the toolbar. Tip: pin it via the puzzle-piece menu.
 3. Pick the page size (A4 or Letter) and whether to include your photo, then click **Create PDF**. The extension remembers your choices.
-4. Scroll the profile to the bottom once so every section loads.
+4. ProfilePDF scrolls the page for you so every section loads. You can scroll yourself too, or press **Skip** to use what has loaded.
 5. Your PDF is saved to your Downloads folder.
 
 ## What you get
@@ -30,7 +30,7 @@ Save any LinkedIn profile as a clean, multi-page PDF resume in one click. Profil
 
 ### How do I save a LinkedIn profile as a PDF?
 
-Open the profile (`linkedin.com/in/…`) while signed in, click the ProfilePDF icon, press **Create PDF**, and scroll the profile to the bottom once so every section loads. The PDF is saved to your Downloads folder.
+Open the profile (`linkedin.com/in/…`) while signed in, click the ProfilePDF icon and press **Create PDF**. ProfilePDF scrolls the page for you so every section loads. The PDF is saved to your Downloads folder.
 
 ### How do I download my own LinkedIn profile as a PDF?
 

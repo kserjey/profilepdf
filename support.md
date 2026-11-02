@@ -50,9 +50,10 @@ A description is all we need. Please don't attach the PDF or anyone's profile de
 **"Open a LinkedIn profile…"**: ProfilePDF works on profile pages, the ones whose address starts
 with `linkedin.com/in/`. It doesn't work on the feed, search results or company pages.
 
-**Some sections are missing from the PDF**: scroll the profile all the way to the bottom before
-the PDF is created, because LinkedIn only loads sections as you scroll. Also check that you're
-signed in to LinkedIn.
+**Some sections are missing from the PDF**: let ProfilePDF finish scrolling the page, and don't
+press **Skip** early, because LinkedIn only loads sections as you scroll. If the automatic scrolling
+stops (for example after you scroll up yourself), scroll to the bottom yourself. Also check that
+you're signed in to LinkedIn.
 
 **"The page did not respond."**: reload the profile page and click the icon again. This often
 happens right after ProfilePDF was installed or updated.
