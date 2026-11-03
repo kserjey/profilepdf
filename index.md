@@ -6,10 +6,7 @@ title: LinkedIn PDF Converter: Save a LinkedIn Profile as PDF | ProfilePDF
 
 Save any LinkedIn profile as a clean, multi-page PDF resume in one click. ProfilePDF is a Chrome extension that generates the LinkedIn PDF entirely in your browser.
 
-<!-- TODO: replace with the Chrome Web Store link once the listing is live. -->
-<!-- https://chromewebstore.google.com/detail/<item-id> -->
-
-**[Add to Chrome](#)**
+**[Add to Chrome](https://chromewebstore.google.com/detail/profilepdf-linkedin-to-pd/mheinophglnbbljcddaddbecjfegdicm)**
 
 ## How to save a LinkedIn profile as PDF
 
